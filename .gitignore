@@ -123,3 +123,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Remove dataset folders
+ORL_face_dataset/
+face_feature/
